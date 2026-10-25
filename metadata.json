@@ -1,0 +1,6 @@
+{
+  "name": "بيتي وحياتي - إدارة المنزل والميزانية واليوميات",
+  "description": "تطبيق شامل لإدارة خزين البيت والمؤن والمنظفات، الميزانية والمصروفات، متابعة الأولاد، متتبع الصلوات والعادات، ومذكرات وحالتي اليومية مع الحفظ السحابي على Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
